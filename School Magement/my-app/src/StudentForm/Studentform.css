@@ -1,0 +1,144 @@
+.formContainer{
+   
+    background-color: #ecf0f5;
+    height: 800px;
+    margin-left: -13px;
+    
+
+   
+}
+.formBody{
+    background-color: #fff;
+    height: 720px;
+    margin-left: 80px;
+    border-top: 3px solid #3c8dbc;
+    box-shadow: 4px 4px 7px #ddd;
+    padding: 15px;
+    /* padding-top: -30px; */
+   
+}
+.formheading{
+    color: #666666;
+    margin-left: 81px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.formdata{
+    height: 720px;
+    margin-top: 15px;
+    
+}
+.instructions{
+    height: 200px;
+    background-color:#f3f3f3 ;
+    /* margin-left: 15px; */
+    color: #333333;
+   
+}
+.headText{
+    text-align: left; 
+    color: #3c8dbc;
+}
+.instructions h4, ul{
+
+    text-align: left;
+    
+}
+.instructions h4{
+    color: #3c8dbc;
+}
+.instructions li{
+  list-style: none;
+  margin-left: -40px;
+}
+.profileBlock{
+    height: 200px;
+   
+}
+.profileImage{
+    height: 150px;
+    width: 150px;
+    background-color: #fff;
+    border-radius: 100%;
+    border: 6px solid #ffffff;
+    box-shadow: 2px 2px 8px #bbbbbb;
+    margin-left: 185px;
+    margin-top: 0px;
+    background-image: url("../Common/student1.jpg");
+    background-size: 100% 100%;
+    transition: 1s;
+}
+.profileImage:hover{
+    background-image: url("../Common/student1.jpg");
+    transform: scale(1.1);
+}
+.title{
+    color: #3c8dbc;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 81px;
+}
+.inputFields{
+    margin-top: 15px;
+   
+}
+.lb1{
+    margin-left: -361px;
+  
+}
+.lb2{
+    margin-left: -173px;
+  
+}
+.lb3{
+    text-align: left;
+    margin-left: -158px;
+  
+}
+.lb4{
+    text-align: left;
+    margin-left: -175px;
+  
+}
+.lb5{
+    text-align: left;
+    margin-left: -150px;
+  
+}
+.lb6{
+    text-align: left;
+    margin-left:-181px;
+  
+}
+.lb7{
+    text-align: left;
+    margin-left: -184px;
+  
+}
+.lb8{
+    text-align: left;
+    margin-left: -186px;
+  
+}
+.requiredField{
+    color: #f00;
+    
+}
+label{
+    margin-left: -134px;
+    color: #999;
+    font-weight:bold;
+    
+}
+.submit{
+    transition: 0.4s;
+      transform: scale(1.1);
+      
+  }
+.submit:hover{
+ 
+    transform: scale(0.9);
+    font-size: large;
+}

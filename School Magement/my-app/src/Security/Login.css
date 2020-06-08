@@ -1,0 +1,43 @@
+.loginForm{
+    border: 1px solid #aaa;
+    height: 450px;
+    margin : auto;
+    margin-top: 50px;
+    padding: 50px;
+    padding-top: 10px;
+    background-color: #fff;
+    box-shadow: 4px 4px 7px #ddd;
+}
+.logincontainer{
+    height: 480px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    margin-top: 64px !important;
+    border-radius: 8px;
+}
+
+
+.bottomlable{
+    margin-top: 5px;
+    
+}
+.fieldWrapper{
+    margin-top: 70px;
+}
+.fieldWrapper button{
+    margin-top: 20px;   
+}
+.fa-user-circle{
+    font-size: 72px !important;
+    font-weight: lighter;
+    margin-top: 10px;
+    color: #3c8dbc;
+    font-weight: 100 !important;
+}
+.signin{
+    color:  #3c8dbc !important;
+}
+.fa-lock {
+    color:  #3c8dbc !important;
+    /* font-size: 1px; */
+}

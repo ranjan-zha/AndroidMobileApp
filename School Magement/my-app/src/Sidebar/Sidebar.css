@@ -1,0 +1,76 @@
+.sidebar{
+    background-color: #222d32;
+    height: 1000px;
+    transition: 0.4s;
+    position: relative !important;
+}
+.sidebar li{
+    list-style: none;
+    font-size: 14px;
+    padding: 5px;
+    margin-top: 18px;
+    color: #b8c7ce;
+    text-decoration: none;
+    
+}
+.sidebar ul{
+    margin-right: 43px;
+}
+.sidebar li:hover{
+    list-style: none;
+    font-size: 14px;
+    /* background-color: #37475A; */
+    /* padding: 6px; */
+    /* margin-top: -5px; */
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+.sidebar li a{
+    color: #b8c7ce;
+    text-decoration: none;
+}
+.sidebar li a:hover{
+    color: #eee;
+    text-decoration: none;
+}
+.sidebarCollapse{
+    height:650px;
+	width: 23.5% !important;
+	background-color: #222d32;
+	float: left;
+	transition: 0.4s;
+}
+.bar{
+    height: 35px;
+    width: 35px;
+    border: 1px solid #fff;
+    margin-top: -42px !important;
+    margin-left: 65px !important;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    /* background-attachment: fixed; */
+}
+.logo{
+    color: #fff !important;
+    font-size: 20px !important;
+}
+.car{
+    color: #fff !important;
+    font-size: 30px !important;
+}
+
+
+  
+  #panel {
+    color: #b8c7ce;
+    padding-left: 30px;
+    display: none;
+
+  }
+
+  #panel h5:hover {
+    color: #fff;
+    /* padding-left: 30px; */
+  }

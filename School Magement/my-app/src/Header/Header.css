@@ -1,0 +1,28 @@
+.header{
+    background-color:#3c8dbc;
+    height: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    /* position: relative !important; */
+    /* margin-top: 100px !important; */
+}
+.logo{
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+    margin-left: -10px;
+}
+.userdropdown{
+    margin-top: 15px!important;
+    margin-right:15px !important ;
+    cursor: pointer;
+    
+}
+.userfont,.userdropdown{
+    color: #ffffff !important;
+    font-size: 15px;
+}
+.fa-user-plus,.fa-sign-in-alt,.fa-sign-out-alt,.dropdown-menu{
+    color: #aaaaaa !important;
+}

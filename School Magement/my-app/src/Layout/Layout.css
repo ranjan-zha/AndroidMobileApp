@@ -1,0 +1,39 @@
+h1{
+    color: #666666;
+}
+.maincontent{
+    float: left;
+    background-color: #ecf0f5;
+    /* margin-left: 15px; */
+    height: 1000px;
+    font-size: 12px;
+}
+.maincontentCollapse{
+    float: left;
+    background-color: #ecf0f5;
+    margin-left: 84px;
+    height: 1000px;
+    /* width: 100% !important; */
+    font-size: 12px;
+}
+
+.sidebarCollapse{
+    height:650px;
+	width: 6.5% !important;
+	background-color: #222d32;
+	float: left;
+	transition: 0.4s;
+}
+.bar{
+    height: 35px;
+    width: 35px;
+    border: none;
+    margin-top: -30px !important;
+    margin-left: 97px !important;
+    color: #fff;
+    cursor: pointer;
+    position: absolute;
+    /* background-attachment: fixed; */
+}
+
+

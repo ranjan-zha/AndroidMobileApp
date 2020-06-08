@@ -1,0 +1,54 @@
+.pageWrapper{
+    height: 600px;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    background-color: #eeeeee;
+}
+.faults,.Progress, .Resolved{
+    height: 550px;
+    width: 25%;
+    margin-top: 30px;
+    background-color: white;
+    margin-left: 50px;
+    box-shadow: 4px 4px 4px #ddd;
+    float: left;
+    border-radius: 5px;
+}
+h3{
+    margin-left: 100px;
+    color: tomato;
+    
+}
+.card{
+    height: 100px;
+    width: 200px;
+    background-color: lightcoral;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px #ddd; 
+    cursor: pointer;
+    color: #333; 
+    transition: 0.3s; 
+
+}
+.card:hover{
+    
+}
+.Resolved h3{
+    color: mediumseagreen !important;
+}
+.Progress h3{
+    color: orange !important;
+}
+h2{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.card active{
+    cursor: grabbing;
+}
+.card:active{
+    cursor: grabbing !important;
+    transform: rotate(5deg);
+}
