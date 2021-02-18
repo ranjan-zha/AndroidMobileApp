@@ -1,0 +1,4 @@
+#Wed Feb 17 15:13:32 IST 2021
+base.0=/home/iassureit/mobileApp/trainingApp/TrainingApp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
